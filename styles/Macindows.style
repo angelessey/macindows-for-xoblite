@@ -1,0 +1,116 @@
+! ---------------------------------------------------
+! Macindows by angelessey
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! October 4th, 2021
+! ---------------------------------------------------
+
+style.name:		Macindows
+style.author:		angelessey
+style.date:		October 2021
+style.credits:		all thanks to niivu for the inspo!
+style.comments:		http://xoblite.net/
+style.wallpaper:		(see credits.txt)
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Solid
+toolbar.color: #F7F1E3
+toolbar.font: Cousine/8/Normal
+toolbar.alignment: Center
+toolbar.textColor: #000000
+toolbar.marginWidth: 2
+toolbar.borderWidth: 1
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: Blank/1/Normal
+toolbar.label.alignment: left
+toolbar.label.textColor: #000000
+toolbar.label.marginWidth: 0
+
+toolbar.windowLabel.appearance: Flat Solid
+toolbar.windowLabel.color: #C6EAE6
+toolbar.windowLabel.font: Cousine/8/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #000000
+toolbar.windowLabel.marginWidth: 0
+toolbar.windowLabel.borderWidth: 0
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: Blank/8/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #000000
+toolbar.clock.marginWidth: 0
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #F7F1E3
+toolbar.button.marginWidth: 0
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #F7F1E3
+toolbar.button.pressed.picColor: #F7F1E3
+toolbar.button.pressed.marginWidth: 0
+toolbar.button.pressed.borderWidth: 0
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color: #F7F1E3
+menu.title.font: Blank/1/Normal
+menu.title.alignment: Left
+menu.title.textColor: #ffffff
+menu.title.shadowColor: #ffffff
+menu.title.marginWidth: 2
+menu.title.borderWidth: 0
+
+menu.frame.appearance: Flat Solid
+menu.frame.color: #F7F1E3
+menu.frame.font: MaisonNeue-Mono/6/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #000000
+menu.frame.disabledColor: #000000
+menu.frame.bulletColor: #000000
+menu.frame.marginWidth: 2
+menu.frame.borderWidth: 1
+
+menu.active.appearance: Raised Solid
+menu.active.color: #F3A59B
+menu.active.textColor: #000000
+menu.active.bulletColor: #000000
+menu.active.marginWidth: 0
+menu.active.borderWidth: 1
+
+menu.grip.appearance: Flat Solid
+menu.grip.color: #F7F1E3
+menu.grip.font: Blank/1/Normal
+menu.grip.alignment: Left
+menu.grip.textColor: #000000
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #F7F1E3
+menu.indicator.marginWidth: 2
+menu.indicator.borderWidth: 2
+
+menu.separator.appearance: Flat Solid
+menu.separator.color: #F7F1E3
+
+menu.bullet: Circle
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #32363A
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #32363A
+console.textColor: #77737A
+console.buttonColor: #77737A
+console.font: Segoe UI/8/Normal
+
+! --------------------------------------------------
